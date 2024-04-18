@@ -1,0 +1,5 @@
+*.pyc
+*.o
+__pycache__/
+data/
+cpp/local/
