@@ -1,0 +1,331 @@
+ID: 1, Name: RPM
+ID: 2, Name: Sync status
+ID: 3, Name: Lost sync count
+ID: 4, Name: Injector duty
+ID: 5, Name: MAP Raw
+ID: 6, Name: MAP
+ID: 7, Name: TPS Raw
+ID: 8, Name: TPS
+ID: 9, Name: Primary Load
+ID: 10, Name: Secondary Load
+ID: 11, Name: O2 Raw
+ID: 12, Name: O2 Val
+ID: 13, Name: Coolant Temp. Raw
+ID: 14, Name: Coolant Temp.
+ID: 15, Name: Intake Air Temp. Raw
+ID: 16, Name: Intake Air Temp.
+ID: 17, Name: Battery Voltage Raw
+ID: 18, Name: Battery Voltage
+ID: 19, Name: Analog Spare Raw 1
+ID: 20, Name: Analog Spare 1
+ID: 21, Name: Analog Spare Raw 2
+ID: 22, Name: Analog Spare 2
+ID: 23, Name: DBW A Pedal Pos Raw 1
+ID: 24, Name: DBW A Pedal Pos Raw 2
+ID: 25, Name: DBW A Throttle Pos Raw 1
+ID: 26, Name: DBW A Throttle Pos Raw 2
+ID: 28, Name: Oil Temp. Raw
+ID: 29, Name: Oil Temp.
+ID: 30, Name: Oil Press. Raw
+ID: 31, Name: Oil Press.
+ID: 32, Name: AE Delta
+ID: 33, Name: Idle RPM Error
+ID: 34, Name: Airflow Est.
+ID: 35, Name: Fuelfow Est.
+ID: 36, Name: Fuel Press. Raw
+ID: 37, Name: Fuel Press.
+ID: 40, Name: CAM A Sync Status
+ID: 41, Name: CAM B Sync Status
+ID: 42, Name: CAM C Sync Status
+ID: 43, Name: CAM D Sync Status
+ID: 50, Name: Water Injection Status
+ID: 512, Name: Ign. Dwell Base Out
+ID: 530, Name: Ign. Adv. Base Out.
+ID: 531, Name: Ign. Adv. Add. Base Out.
+ID: 532, Name: Ign. Adv. Knock Add
+ID: 533, Name: Ign. Adv. CLT Add
+ID: 534, Name: Ign. Adv. IAT Add
+ID: 535, Name: Ign. Adv. Sec. Load Trim
+ID: 536, Name: Ign. Adv. Limiter Add
+ID: 537, Name: Ign. Adv. ALS Add
+ID: 538, Name: Ign. Adv. AC Add
+ID: 539, Name: Ign. Adv. Spark Scatter Add
+ID: 540, Name: Ign. Adv. Trailing Spark Delay
+ID: 541, Name: Ign. Adv. LC Add
+ID: 551, Name: Inj. Pri. Start Angle
+ID: 552, Name: Sec. Inj. Start Angle
+ID: 570, Name: Sec. Inj. Dead Time
+ID: 571, Name: Sec. Inj. Perc
+ID: 572, Name: Sec. Inj. Duty
+ID: 573, Name: Sec. Inj. PW
+ID: 581, Name: Inj. Target AFR
+ID: 582, Name: Inj. Base VE Out.
+ID: 583, Name: Inj. Add Base VE Out.
+ID: 584, Name: Inj. AE VE Added
+ID: 585, Name: Inj. VE Total
+ID: 586, Name: Inj. Base PW
+ID: 587, Name: Inj. CLT Trim
+ID: 588, Name: Inj. IAT Trim
+ID: 589, Name: Inj. Idle Trim
+ID: 590, Name: Inj. Sec. Load Trim
+ID: 591, Name: Inj. Knock Trim
+ID: 592, Name: Inj. Cranking Trim
+ID: 593, Name: Inj. ASE Trim
+ID: 594, Name: Inj. Limiter Trim
+ID: 595, Name: Inj. Lambda Trim
+ID: 596, Name: Inj. Overrun Trim
+ID: 597, Name: Inj. Dead Time
+ID: 598, Name: Inj. INT IAT Trim
+ID: 599, Name: Inj. AC Trim
+ID: 580, Name: Inj. LC Trim
+ID: 600, Name: Start. Inj. Crank Trim
+ID: 601, Name: Start. Inj. ASE Trim
+ID: 602, Name: Start. Inj. ASE Decay Time
+ID: 603, Name: Start. Inj. ASE Decay Time Left
+ID: 604, Name: Start. Inj. Priming Pulse
+ID: 620, Name: AE Raw Trim
+ID: 621, Name: AE RPM Clamp Trim
+ID: 622, Name: AE VE Trim
+ID: 623, Name: AE Captured Delta
+ID: 624, Name: AE CLT Trim
+ID: 625, Name: AE MAP Delta
+ID: 626, Name: AE TPS Delta
+ID: 630, Name: Lim. Table RPM
+ID: 631, Name: Lim. Hard RPM Curr.
+ID: 632, Name: Lim. Ign. Cut Perc.
+ID: 633, Name: Lim. Inj. Cut Perc.
+ID: 635, Name: Pri. Fan Status
+ID: 636, Name: Sec. Fan Status
+ID: 650, Name: Idle Ign. Adv. Spark Scatter
+ID: 651, Name: Idle OL Duty
+ID: 652, Name: Idle Target RPM
+ID: 653, Name: Idle Status
+ID: 654, Name: Idle PWM Duty
+ID: 655, Name: Idle P Comp.
+ID: 656, Name: Idle I Comp.
+ID: 657, Name: Idle D Comp.
+ID: 658, Name: Idle Target RPM Err.
+ID: 659, Name: Idle Batt. V Duty Trim
+ID: 660, Name: Extra Idle Load SW Status
+ID: 700, Name: Knock Acc. Lvl. Raw
+ID: 701, Name: Knock CLT Scaling
+ID: 702, Name: Knock Acc. Lvl.
+ID: 703, Name: Knock Lvl. Rel.
+ID: 704, Name: Knock Reading Raw
+ID: 705, Name: Knock Status
+ID: 706, Name: Knock Cyl 1 Window Start
+ID: 707, Name: Knock Last Cyl Detected
+ID: 750, Name: Boost OL Duty
+ID: 751, Name: Boost Target MAP
+ID: 752, Name: Boost CL Init Duty
+ID: 753, Name: Boost Status
+ID: 754, Name: Boost Final Duty
+ID: 755, Name: Boost P Comp.
+ID: 756, Name: Boost I Comp.
+ID: 757, Name: Boost D Comp.
+ID: 758, Name: Boost Target MAP Err.
+ID: 759, Name: Boost Target Gear Limit
+ID: 800, Name: Alt. Ctrl. Status
+ID: 801, Name: Alt. Ctrl. Duty
+ID: 802, Name: Alt. P Comp.
+ID: 803, Name: Alt. I Comp.
+ID: 820, Name: Ethanol Content
+ID: 821, Name: Fuel Temperature
+ID: 822, Name: Flex Fuel - Base Comp.
+ID: 823, Name: Flex Fuel - Flex Comp.
+ID: 830, Name: Main - Base VE
+ID: 831, Name: Main - Target AFR
+ID: 832, Name: Main - Base Ign. Adv
+ID: 833, Name: Main - Boost OL Duty
+ID: 834, Name: Main - Boost CL Target MAP
+ID: 835, Name: Main - Primming Pulse
+ID: 836, Name: Main - Cranking Trim
+ID: 837, Name: Main - Idle OL Duty
+ID: 838, Name: Main - ASE Trim
+ID: 840, Name: Flex - Base VE
+ID: 841, Name: Flex - Target AFR
+ID: 842, Name: Flex - Base Ign. Adv
+ID: 843, Name: Flex - Boost OL Duty
+ID: 844, Name: Flex - Boost CL Target MAP
+ID: 845, Name: Flex - Primming Pulse
+ID: 846, Name: Flex - Cranking Trim
+ID: 847, Name: Flex - Idle OL Duty
+ID: 848, Name: Flex - ASE Trim
+ID: 900, Name: Lambda Ext. AFR
+ID: 901, Name: Lambda AFR Err. 1
+ID: 909, Name: Lambda AFR Err. 2
+ID: 902, Name: Lambda WB LTT Table Trim
+ID: 910, Name: Lambda WB LTT RT Trim
+ID: 903, Name: Lambda Status
+ID: 904, Name: Lambda LTT Status
+ID: 905, Name: Lambda LTT Conf. Lvl.
+ID: 906, Name: Lambda LTT Store Tmr.
+ID: 907, Name: Lambda Curr AFR 1
+ID: 908, Name: Lambda Curr AFR 2
+ID: 911, Name: DBW Friction Comp.
+ID: 912, Name: DBW Spring Comp.
+ID: 913, Name: AE TPS Equiv. Load In
+ID: 914, Name: AE TPS Equiv. Load Out
+ID: 915, Name: DBW A Status
+ID: 916, Name: DBW A Sens. Status
+ID: 917, Name: DBW A Calc. Pedal Pos.
+ID: 918, Name: DBW A PWM Duty
+ID: 919, Name: DBW A P Comp.
+ID: 920, Name: DBW A I Comp
+ID: 921, Name: DBW A D Comp
+ID: 922, Name: DBW A Target TPPS Err.
+ID: 923, Name: DBW A Target TPPS
+ID: 924, Name: DBW A Throttle Pos. 1
+ID: 925, Name: DBW A Throttle Pos. 2
+ID: 926, Name: DBW A Pedal Pos. 1
+ID: 927, Name: DBW A Pedal Pos. 2
+ID: 928, Name: DBW A Pedal Pos. Final
+ID: 929, Name: DBW Duty Batt. Trim
+ID: 930, Name: AC Status
+ID: 940, Name: VSS Speed
+ID: 941, Name: VSS Gear
+ID: 942, Name: VSS Calc. Speed
+ID: 950, Name: Overrun Status
+ID: 960, Name: VICS Status
+ID: 965, Name: EVAP Status
+ID: 970, Name: Inj. Cyl. Trim 1
+ID: 971, Name: Inj. Cyl. Trim 2
+ID: 972, Name: Inj. Cyl. Trim 3
+ID: 973, Name: Inj. Cyl. Trim 4
+ID: 974, Name: Inj. Cyl. Trim 5
+ID: 975, Name: Inj. Cyl. Trim 6
+ID: 976, Name: Inj. Cyl. Trim 7
+ID: 977, Name: Inj. Cyl. Trim 8
+ID: 980, Name: Launch Ctrl. Status
+ID: 981, Name: ALS Status
+ID: 982, Name: Clutch SW Status
+ID: 983, Name: Launch Ctrl. Table Inj. Trim
+ID: 984, Name: Launch Ctrl. Table Ign. Add
+ID: 985, Name: Launch Ctrl. RPM Limit
+ID: 990, Name: VVT A Status
+ID: 991, Name: VVT A Duty
+ID: 992, Name: VVT A Cam Curr. Adv.
+ID: 993, Name: VVT A Cam Target Adv.
+ID: 994, Name: VVT A P Comp.
+ID: 995, Name: VVT A I Comp.
+ID: 1049, Name: VVT B Status
+ID: 1050, Name: VVT B Duty
+ID: 1051, Name: VVT B Cam Curr. Adv.
+ID: 1052, Name: VVT B Cam Target Adv.
+ID: 1053, Name: VVT B P Comp.
+ID: 1054, Name: VVT B I Comp.
+ID: 1000, Name: Sel. Map Boost
+ID: 1001, Name: Sel. Map Ign.
+ID: 1002, Name: Sel. Map Inj.
+ID: 1003, Name: Sw. Boost OL Duty 1
+ID: 1004, Name: Sw. Boost  OL Duty 2
+ID: 1005, Name: Sw. Boost  CL Target 1
+ID: 1006, Name: Sw. Boost  CL Target 2
+ID: 1007, Name: Sw. Ign. Adv. Base 1
+ID: 1008, Name: Sw. Ign. Adv. Base 2
+ID: 1009, Name: Sw. Inj. VE Base 1
+ID: 1010, Name: Sw. Inj. VE Base 2
+ID: 1015, Name: DL Status
+ID: 1016, Name: DL - Seconds left in log
+ID: 1017, Name: DL - Switch status
+ID: 1018, Name: DL - Entries In Log
+ID: 1024, Name: Ign. Adv. Final
+ID: 1025, Name: Ign. Dwell Final
+ID: 1026, Name: Inj. Angle Final
+ID: 1027, Name: Inj. Pri. PW Final
+ID: 2000, Name: Crank IRQs
+ID: 2001, Name: Cam A IRQs
+ID: 2008, Name: Cam B IRQs
+ID: 2002, Name: Debug 1
+ID: 2003, Name: Debug 2
+ID: 2004, Name: Debug 3
+ID: 2005, Name: Debug 4
+ID: 2006, Name: Inj. Max Duty Cnt.
+ID: 2007, Name: Trigger - Filtered IRQs
+ID: 2020, Name: CAN Status
+ID: 2021, Name: CAN TXd Count
+ID: 2022, Name: CAN RXd Count
+ID: 2023, Name: CAN CLT Duty
+ID: 2050, Name: Btn 1 Raw
+ID: 2051, Name: Btn 1 Val
+ID: 2052, Name: Btn 2 Raw
+ID: 2053, Name: Btn 2 Val
+ID: 2054, Name: Btn 3 Raw
+ID: 2055, Name: Btn 3 Val
+ID: 2080, Name: GPT 3D 1 Inp. Link 1
+ID: 2081, Name: GPT 3D 1 Inp. Link 2
+ID: 2082, Name: GPT 3D 2 Inp. Link 1
+ID: 2083, Name: GPT 3D 2 Inp. Link 2
+ID: 2084, Name: GPT 3D 3 Inp. Link 1
+ID: 2085, Name: GPT 3D 3 Inp. Link 2
+ID: 2086, Name: GPT 2D 1 Inp. Link
+ID: 2087, Name: GPT 2D 2 Inp. Link
+ID: 2088, Name: GPT 2D 3 Inp. Link
+ID: 2089, Name: GPT 3D 1 Out Link
+ID: 2090, Name: GPT 3D 2 Out Link
+ID: 2091, Name: GPT 3D 3 Out Link
+ID: 2092, Name: GPT 2D 1 Out Link
+ID: 2093, Name: GPT 2D 2 Out Link
+ID: 2094, Name: GPT 2D 3 Out Link
+ID: 2095, Name: Inj. PW GPT Trim
+ID: 2096, Name: Lambda Target AFR GPT Trim
+ID: 2097, Name: Ign. Adv. GPT Add
+ID: 2098, Name: Boost CL GPT Trim
+ID: 2099, Name: GPT Dash Chan 1
+ID: 2100, Name: Lim. GPT RPM
+ID: 2101, Name: Idle GPT PWM Add.
+ID: 2105, Name: GPT PWM 1 Duty
+ID: 2106, Name: GPT PWM 2 Duty
+ID: 2107, Name: GPT PWM 3 Duty
+ID: 2108, Name: GPT PWM 4 Duty
+ID: 2109, Name: GPT PWM 5 Duty
+ID: 2110, Name: GPT PWM 6 Duty
+ID: 2115, Name: GPT Data Out 1
+ID: 2116, Name: GPT Data Out 2
+ID: 2150, Name: Int. WB Status
+ID: 2151, Name: Int. WB Heater Status
+ID: 2152, Name: Int. WB Sensor Status
+ID: 2153, Name: Int. WB Target UR Raw
+ID: 2154, Name: Int. WB UR Raw
+ID: 2155, Name: Int. WB HTR Drive
+ID: 2156, Name: Int. WB UA Raw
+ID: 2157, Name: Int. WB HTR P Comp.
+ID: 2158, Name: Int. WB HTR I Comp.
+ID: 2159, Name: Int. WB HTR D Comp.
+ID: 2160, Name: Int. WB Lambda
+ID: 2161, Name: Int. WB AFR
+ID: 2180, Name: Oil Pump FB Raw
+ID: 2181, Name: Oil Pump FB Perc
+ID: 2182, Name: Oil Pump Pos Cnt.
+ID: 2183, Name: Oil Pump Req Pos
+ID: 2190, Name: CLT Out Delay
+ID: 2220, Name: RTC Status
+ID: 2221, Name: RTC Day
+ID: 2222, Name: RTC Month
+ID: 2223, Name: RTC Year
+ID: 2224, Name: RTC Hour
+ID: 2225, Name: RTC Minutes
+ID: 2226, Name: RTC Seconds
+ID: 2230, Name: EGT 1 Status
+ID: 2232, Name: EG Temp 1
+ID: 2240, Name: Master Relay Status
+ID: 2260, Name: EPS: Generic Status
+ID: 2261, Name: EPS: Override SW Status
+ID: 2270, Name: EPS Oil Temp Status
+ID: 2271, Name: EPS Oil Press Status
+ID: 2272, Name: EPS Oil Press. Limit
+ID: 2275, Name: EPS Fuel Press Status
+ID: 2280, Name: EPS EGT Status
+ID: 2285, Name: EPS Lambda Status
+ID: 2290, Name: GS: Load Cell Ana Raw
+ID: 2291, Name: Load Cell Ana
+ID: 2292, Name: GS Status
+ID: 2293, Name: GS SW Status
+ID: 2294, Name: GS Inj Trim
+ID: 2295, Name: GS Ign. Add
+ID: 2296, Name: GS Cut Perc.
+ID: 2297, Name: GS Cut Dur
+ID: 2298, Name: GS Re-Add Dur
+ID: 2299, Name: GS Table Inj Trim
+ID: 2300, Name: GS Table Ign. Add
+ID: 3000, Name: Dummy

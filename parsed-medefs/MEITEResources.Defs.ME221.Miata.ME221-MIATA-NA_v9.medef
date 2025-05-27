@@ -1,0 +1,84 @@
+ID: 1, Name: RPM
+ID: 2, Name: Sync status
+ID: 3, Name: Lost sync count
+ID: 4, Name: Injector duty
+ID: 5, Name: MAP Raw
+ID: 6, Name: MAP
+ID: 7, Name: TPS Raw
+ID: 8, Name: TPS
+ID: 9, Name: Primary Load
+ID: 10, Name: Secondary Load
+ID: 11, Name: O2 Raw
+ID: 12, Name: O2 Val
+ID: 13, Name: Coolant temperature Raw
+ID: 14, Name: Coolant temperature
+ID: 15, Name: Intake Air Temp. Raw
+ID: 16, Name: Intake Air Temp.
+ID: 17, Name: Battery Voltage Raw
+ID: 18, Name: Battery Voltage
+ID: 32, Name: Accelerator Delta
+ID: 33, Name: Idle RPM Error
+ID: 34, Name: Airflow Est.
+ID: 35, Name: Fueflow Est.
+ID: 512, Name: Current Dwell
+ID: 530, Name: Ignition Advance
+ID: 531, Name: Ign. Adv. Add. Base Table Output
+ID: 532, Name: Ignition CLT Mod
+ID: 533, Name: Ignition IAT Mod
+ID: 534, Name: Ign. Adv. Sec. Load Mod
+ID: 535, Name: Ign. Adv. Knock Mod
+ID: 536, Name: Ign. Adv. Limiter Mod
+ID: 581, Name: Current Target AFR
+ID: 582, Name: Base VE Output
+ID: 583, Name: Add. Base VE Output
+ID: 584, Name: AE VE Added
+ID: 585, Name: Total VE
+ID: 586, Name: Base PW
+ID: 587, Name: Fuel CLT Mod
+ID: 588, Name: Fuel IAT Mod
+ID: 589, Name: Fuel Idle Duty Mod
+ID: 590, Name: PW Sec. Load Mod
+ID: 591, Name: Fuel Knock Mod
+ID: 592, Name: Fuel Cranking Mod
+ID: 593, Name: Fuel ASE Mod
+ID: 594, Name: PW Limiter Mod
+ID: 595, Name: Fuel Lambda Mod
+ID: 596, Name: Inj. Dead Time
+ID: 600, Name: Cranking Fuel Mod
+ID: 601, Name: After-Start Fuel Mod
+ID: 602, Name: After-Start Decay Time
+ID: 603, Name: After-Start Decay Time Left
+ID: 620, Name: AE Trim Raw
+ID: 621, Name: AE RPM Clamp Trim
+ID: 624, Name: AE CLT Trim
+ID: 622, Name: AE VE Trim
+ID: 623, Name: AE Captured Delta
+ID: 630, Name: Hard Cut RPM Limit
+ID: 650, Name: Advance Modifier
+ID: 651, Name: Table PWM Idle
+ID: 652, Name: Target RPM
+ID: 653, Name: Idle Status
+ID: 654, Name: Idle PWM Duty
+ID: 655, Name: Idle P Comp.
+ID: 656, Name: Idle I Comp.
+ID: 657, Name: Idle D Comp.
+ID: 658, Name: Target RPM Error
+ID: 750, Name: Boost Open Loop Duty
+ID: 751, Name: Boost Target MAP
+ID: 752, Name: Boost Closed Loop Init Duty
+ID: 753, Name: Boost Status
+ID: 754, Name: Final Boost PWM Duty
+ID: 755, Name: Boost P Comp.
+ID: 756, Name: Boost I Comp.
+ID: 757, Name: Boost D Comp.
+ID: 758, Name: Boost Target Error MAP
+ID: 700, Name: Knock RAW Level
+ID: 701, Name: Knock Curr. Rel. Level
+ID: 800, Name: Alternator Ctrl. Status
+ID: 801, Name: Alternator Ctrl. Duty
+ID: 1024, Name: Ignition Adv. Angle (Final)
+ID: 1025, Name: Ignition Dwell
+ID: 1026, Name: Injection Angle
+ID: 1027, Name: Injector Pulse Width
+ID: 2000, Name: Crank IRQs
+ID: 2001, Name: CAM IRQs
